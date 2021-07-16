@@ -1,11 +1,9 @@
 import Image from 'next/image'
 import React from 'react'
-import Hello from 'ktcui'
 
 export default function Home() {
   return (
     <div className="bg-black text-white py-20">
-      <Hello />
       <div
         className="container mx-auto flex flex-col md:flex-row items-center my-12 md:my-24"
       >
