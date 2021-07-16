@@ -1979,6 +1979,11 @@ jsonfile@^6.0.1:
     array-includes "^3.1.2"
     object.assign "^4.1.2"
 
+ktcui@^1.0.2:
+  version "1.0.102"
+  resolved "https://registry.yarnpkg.com/ktcui/-/ktcui-1.0.102.tgz#20988385c5023492ec51ea866695c4bf3b22f49a"
+  integrity sha512-J1gYvsoThnis637qPqQeLUlDPDCTWy1tk6pIJaCza3kJTjQ2ayDWbqI7UQal8T9m3Ics6c7csALwW+iqkvqVYg==
+
 language-subtag-registry@~0.3.2:
   version "0.3.21"
   resolved "https://registry.yarnpkg.com/language-subtag-registry/-/language-subtag-registry-0.3.21.tgz#04ac218bea46f04cb039084602c6da9e788dd45a"
